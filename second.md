@@ -1,2 +1,2 @@
-I am now practicing git usage.
+I want to play video games.
 It is interesting and joyful.
